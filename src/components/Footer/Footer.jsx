@@ -22,9 +22,9 @@ const Footer = ({ id }) => {
 				<div className="footerColumnH">
 					<h3>Location</h3>
           <br />
-					<h5>Denmark</h5>
+					<h5>Finland</h5>
           <br />
-					<h5>Switzerland</h5>
+					<h5>Belgium</h5>
 				</div>
 			</div>
 			<div className="copyright">&copy;2022&nbsp;&nbsp;All Rights Reserved.</div>
