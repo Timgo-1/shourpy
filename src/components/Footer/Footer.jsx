@@ -24,7 +24,7 @@ const Footer = ({ id }) => {
           <br />
 					<h5>Denmark</h5>
           <br />
-					<h5>Netherland</h5>
+					<h5>Switzerland</h5>
 				</div>
 			</div>
 			<div className="copyright">&copy;2022&nbsp;&nbsp;All Rights Reserved.</div>

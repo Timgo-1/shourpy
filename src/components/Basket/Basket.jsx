@@ -26,7 +26,7 @@ export default function Basket() {
             <div className="free_send_title">
               <img src="images/sound(1).jpg" alt="" />
               <span>
-                Shipping is free for purchases over 1000€.
+                Shipping is free for purchases over € 1000.
               </span>
             </div>
           </div>
