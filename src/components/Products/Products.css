@@ -131,7 +131,7 @@
 
 .products_empty_title {
   font-size: 18px;
-  color: rgba(248, 195, 48, 0.6);
+  color: red;
   text-align: center;
 }
 
