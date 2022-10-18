@@ -1,6 +1,7 @@
 import React from "react";
 import SwiperCore, { EffectCoverflow, Pagination, Navigation, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
+// import Card from "../Products/Card/Card";
 import "swiper/swiper-bundle.min.css";
 import "swiper/swiper.min.css";
 import "./styles.css";

@@ -31,9 +31,7 @@ export default function Details() {
           <div className="card_content">
             <span className="card_title">{datas.title}</span>
             <span style={{ color: "pink" }}>|</span>
-            <span className="card_price">
-            € {datas.price.toLocaleString()} 
-            </span>
+            <span className="card_price">€ {datas.price.toLocaleString()}</span>
           </div>
           <div className="card_information">
             <ul>

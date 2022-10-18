@@ -4,7 +4,7 @@ import offerCode from "../../Offer";
 function OfferBadge() {
   return (
     <div className="offerBadge">
-      <span>%{offerCode.disCount}</span>
+      <span>{offerCode.disCount}%</span>
     </div>
   );
 }
