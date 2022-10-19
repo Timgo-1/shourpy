@@ -213,8 +213,8 @@
 .offerBadge {
   width: 45px;
   height: 45px;
-  background-color: crimson;
-  color: moccasin;
+  background-color: seagreen;
+  color: lime;
   display: flex;
   align-items: center;
   justify-content: center;
