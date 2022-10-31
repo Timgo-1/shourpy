@@ -1,5 +1,5 @@
 # Shourpy Grocery Store Landing Page
-### [Live Site](https://shourpy.vercel.app)
+### [Live Site](https://shourpy.cf)
 
 ![Shourpy Landing Page](https://i.ibb.co/FKhNvKS/SHOURPY.png)
 
