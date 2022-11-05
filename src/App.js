@@ -5,7 +5,7 @@ import ContextProvider from './components/Context/ContextProvider';
 import Details from './components/Details/Details';
 import FavoritePage from './components/Favorite/FavoritePage';
 import Header from './components/Header/Header';
-import Swiper from './components/Swiper/Slider';
+import Swiper from './components/Products/Scroll';
 import Products from './components/Products/Products';
 
 
