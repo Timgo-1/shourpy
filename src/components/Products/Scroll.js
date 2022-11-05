@@ -15,7 +15,7 @@ export default function Products() {
       <Marquee
         pauseOnHover={true}
         pauseOnClick={true}
-        speed={50}
+        speed={60}
       >
       <div className="scroll_container">
         {productsList.length > 0 ? (
